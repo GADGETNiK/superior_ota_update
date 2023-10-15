@@ -1,1 +1,15 @@
-
+{
+  "response": [
+    {
+      "datetime": 1697328992,
+      "filename": "crDroidAndroid-13.0-*-fog-*.zip",
+      "id": "",
+      "romtype": "RELEASE",
+      "size":,
+      "url": "https://github.com/GADGETNiK/superior_ota_update/releases/download/crDroidAndroid-13.0-*-fog-*/crDroidAndroid-13.0-*-fog-*.zip",
+      "version": "Thirteen",
+      "device_name": "Redmi 10C",
+      "maintainer": "GADGETNiK (WolfAURman Team)"
+    }
+  ]
+}
