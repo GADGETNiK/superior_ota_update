@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1697328992,
-      "filename": "SuperiorOS-Thirteen-*-fog-*.zip",
-      "id": "",
+      "filename": "SuperiorOS-Thirteen-fog-COMMUNITY-20231015-0019.zip",
+      "id": "599b371ec0ec747b26f35c0d708b0fe6",
       "romtype": "RELEASE",
-      "size":,
-      "url": "https://github.com/GADGETNiK/superior_ota_update/releases/download/SuperiorOS-Thirteen-*-fog-*/SuperiorOS-Thirteen-*-fog-*.zip",
+      "size":1039420210,
+      "url": "https://github.com/GADGETNiK/superior_ota_update/releases/download/SuperiorOS-Thirteen-fog-COMMUNITY-20231015-0019/SuperiorOS-Thirteen-fog-COMMUNITY-20231015-0019.zip",
       "version": "Thirteen",
       "device_name": "Redmi 10C",
       "maintainer": "GADGETNiK (WolfAURman Team)"
